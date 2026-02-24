@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Subnet Mask Calculator & Network Analyzer
 
 ## Objective
@@ -34,3 +35,7 @@ Subnet-Calculator/
 
 ## Disclaimer
 This project is for educational purposes only.
+=======
+# subnet-calculator
+Subnet Mask Calculator &amp; Network Analyzer in Python
+>>>>>>> 2b1b670119d1003e2f2daf075ae068ea405dfb38
